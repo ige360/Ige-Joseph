@@ -156,9 +156,11 @@
 
     .project-card {
         max-width: 350px;
+        margin-bottom: 20px;
     }
 
     .project-card img {
         width: 350px;
     }
+
 }
